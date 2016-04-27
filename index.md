@@ -7,29 +7,32 @@ header:
   overlay_image: home-page-feature.jpg
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
-  caption:
-  # excerpt: 'Wireless, projects and fun!'
+  #caption:
+    # excerpt: ''
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_label: "Learn More"
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Project excerpts, links and other things found along the way."
+    url: "/blog/"
+    btn_label: "Read now"
+
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Wireless, RFID, Arduino and Raspberry Pi - everything project!"
+    url: "/projects/"
+    btn_label: "Read more"
+
   - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License."
-    url: "/docs/license/"
-    btn_label: "Learn More"
+    alt: "Live data monitoring"
+    title: "Live data monitoring"
+    excerpt: "Voltages, current and temperatures - live and logged."
+    url: "/monitoring/"
+    btn_label: "Open dashboard"
 intro:
-  - excerpt: 'Get the the notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i>@mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  #- excerpt: '[<i class="fa fa-twitter"></i>@mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Wireless, wired, tech gadgets and everything in between.'
 ---
 
 {% include feature_row id="intro" type="center" %}
