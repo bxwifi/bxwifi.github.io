@@ -2,13 +2,13 @@
 title: "Live monitoring"
 layout: single
 permalink: /monitoring/
-mtr:
-  -  image_path: mm-free-feature.png
-    alt: "Live data monitoring"
-    title: "Live data monitoring"
-    excerpt: "Voltages, current and temperatures - live and logged."
-    url: "/monitoring/mtr"
-    btn_label: "MTR"
+feature_row:
+  - image_path: mm-customizable-feature.png
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Project excerpts, links and other things found along the way."
+    url: "/blog/"
+    btn_label: "Read now"
 ---
 
-{% include mtr %}
+{% include feature_row %}
