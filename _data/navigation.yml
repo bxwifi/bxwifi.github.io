@@ -7,7 +7,7 @@ main:
     url: /projects/
     
   - title: "Live Data"
-    url: /live-data/
+    url: /monitoring/
 
   - title: "About"
     url: /about/
