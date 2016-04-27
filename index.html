@@ -1,12 +1,14 @@
 ---
-title: "Bathurst Wireless"
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_image: unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+layout: archive
+author_profile: true
 ---
 
-Test
+{% include base_path %}
+
+<h3 class="archive__subtitle">Recent Posts</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
