@@ -3,8 +3,8 @@ title: "Live monitoring"
 layout: single
 permalink: /monitoring/
 feature_row:
-  - image_path: mm-customizable-feature.png
-    alt: "MTR Live Data"
+  - # image_path: mm-customizable-feature.png
+    # alt: "MTR Live Data"
     title: "MTR Live Data"
     # excerpt: "Voltage, current and temperature monitoring of the MTR test site."
     url: "/monitoring/mtr/"
