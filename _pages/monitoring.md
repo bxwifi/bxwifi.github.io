@@ -4,11 +4,11 @@ layout: single
 permalink: /monitoring/
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "Blog"
-    title: "Blog"
-    excerpt: "Project excerpts, links and other things found along the way."
-    url: "/blog/"
-    btn_label: "Read now"
+    alt: "MTR Live Data"
+    title: "MTR Live Data"
+    excerpt: "Voltage, current and temperature monitoring of the MTR test site."
+    url: "/monitoring/mtr/"
+    btn_label: "Load live data"
 ---
 
 {% include feature_row %}
