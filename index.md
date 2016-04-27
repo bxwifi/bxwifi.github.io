@@ -8,7 +8,7 @@ header:
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Wireless, projects and fun!'
+  # excerpt: 'Wireless, projects and fun!'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
@@ -29,7 +29,7 @@ feature_row:
     url: "/docs/license/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Get the notified when I add new stuff &nbsp; <i class="fa fa-twitter"></i> @mmistakes(https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Get the the notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i>@mmistakes(https://twitter.com/mmistakes)]{: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
