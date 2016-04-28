@@ -10,23 +10,23 @@ header:
   #caption:
     # excerpt: ''
 feature_row:
-  - image_path: mm-customizable-feature.png
-    alt: "Blog"
-    title: "Blog"
+  #- image_path: mm-customizable-feature.png
+  #  alt: "Blog"
+  - title: "Blog"
     excerpt: "Project excerpts, links and other things found along the way."
     url: "/blog/"
     btn_label: "Read now"
 
-  - image_path: mm-responsive-feature.png
-    alt: "Projects"
-    title: "Projects"
+  #- image_path: mm-responsive-feature.png
+  #  alt: "Projects"
+  - title: "Projects"
     excerpt: "Wireless, RFID, Arduino and Raspberry Pi - everything project!"
     url: "/projects/"
     btn_label: "Read more"
 
-  - image_path: mm-free-feature.png
-    alt: "Live data monitoring"
-    title: "Live data monitoring"
+  #- image_path: mm-free-feature.png
+  #  alt: "Live data monitoring"
+  - title: "Live data monitoring"
     excerpt: "Voltages, current and temperatures - live and logged."
     url: "/monitoring/"
     btn_label: "Open dashboard"
